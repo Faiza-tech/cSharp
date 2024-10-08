@@ -1,0 +1,15 @@
+C:\Users\Faiza\Documents\allDotnet\cSharp\switchStatment\bin\Debug\net8.0\switchStatment.exe
+C:\Users\Faiza\Documents\allDotnet\cSharp\switchStatment\bin\Debug\net8.0\switchStatment.deps.json
+C:\Users\Faiza\Documents\allDotnet\cSharp\switchStatment\bin\Debug\net8.0\switchStatment.runtimeconfig.json
+C:\Users\Faiza\Documents\allDotnet\cSharp\switchStatment\bin\Debug\net8.0\switchStatment.dll
+C:\Users\Faiza\Documents\allDotnet\cSharp\switchStatment\bin\Debug\net8.0\switchStatment.pdb
+C:\Users\Faiza\Documents\allDotnet\cSharp\switchStatment\obj\Debug\net8.0\switchStatment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Faiza\Documents\allDotnet\cSharp\switchStatment\obj\Debug\net8.0\switchStatment.AssemblyInfoInputs.cache
+C:\Users\Faiza\Documents\allDotnet\cSharp\switchStatment\obj\Debug\net8.0\switchStatment.AssemblyInfo.cs
+C:\Users\Faiza\Documents\allDotnet\cSharp\switchStatment\obj\Debug\net8.0\switchStatment.csproj.CoreCompileInputs.cache
+C:\Users\Faiza\Documents\allDotnet\cSharp\switchStatment\obj\Debug\net8.0\switchStatment.sourcelink.json
+C:\Users\Faiza\Documents\allDotnet\cSharp\switchStatment\obj\Debug\net8.0\switchStatment.dll
+C:\Users\Faiza\Documents\allDotnet\cSharp\switchStatment\obj\Debug\net8.0\refint\switchStatment.dll
+C:\Users\Faiza\Documents\allDotnet\cSharp\switchStatment\obj\Debug\net8.0\switchStatment.pdb
+C:\Users\Faiza\Documents\allDotnet\cSharp\switchStatment\obj\Debug\net8.0\switchStatment.genruntimeconfig.cache
+C:\Users\Faiza\Documents\allDotnet\cSharp\switchStatment\obj\Debug\net8.0\ref\switchStatment.dll
