@@ -1,0 +1,15 @@
+C:\Users\Faiza\Documents\allDotnet\cSharp\ChallangeOfSwitchStatement\bin\Debug\net8.0\ChallangeOfSwitchStatement.exe
+C:\Users\Faiza\Documents\allDotnet\cSharp\ChallangeOfSwitchStatement\bin\Debug\net8.0\ChallangeOfSwitchStatement.deps.json
+C:\Users\Faiza\Documents\allDotnet\cSharp\ChallangeOfSwitchStatement\bin\Debug\net8.0\ChallangeOfSwitchStatement.runtimeconfig.json
+C:\Users\Faiza\Documents\allDotnet\cSharp\ChallangeOfSwitchStatement\bin\Debug\net8.0\ChallangeOfSwitchStatement.dll
+C:\Users\Faiza\Documents\allDotnet\cSharp\ChallangeOfSwitchStatement\bin\Debug\net8.0\ChallangeOfSwitchStatement.pdb
+C:\Users\Faiza\Documents\allDotnet\cSharp\ChallangeOfSwitchStatement\obj\Debug\net8.0\ChallangeOfSwitchStatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Faiza\Documents\allDotnet\cSharp\ChallangeOfSwitchStatement\obj\Debug\net8.0\ChallangeOfSwitchStatement.AssemblyInfoInputs.cache
+C:\Users\Faiza\Documents\allDotnet\cSharp\ChallangeOfSwitchStatement\obj\Debug\net8.0\ChallangeOfSwitchStatement.AssemblyInfo.cs
+C:\Users\Faiza\Documents\allDotnet\cSharp\ChallangeOfSwitchStatement\obj\Debug\net8.0\ChallangeOfSwitchStatement.csproj.CoreCompileInputs.cache
+C:\Users\Faiza\Documents\allDotnet\cSharp\ChallangeOfSwitchStatement\obj\Debug\net8.0\ChallangeOfSwitchStatement.sourcelink.json
+C:\Users\Faiza\Documents\allDotnet\cSharp\ChallangeOfSwitchStatement\obj\Debug\net8.0\ChallangeOfSwitchStatement.dll
+C:\Users\Faiza\Documents\allDotnet\cSharp\ChallangeOfSwitchStatement\obj\Debug\net8.0\refint\ChallangeOfSwitchStatement.dll
+C:\Users\Faiza\Documents\allDotnet\cSharp\ChallangeOfSwitchStatement\obj\Debug\net8.0\ChallangeOfSwitchStatement.pdb
+C:\Users\Faiza\Documents\allDotnet\cSharp\ChallangeOfSwitchStatement\obj\Debug\net8.0\ChallangeOfSwitchStatement.genruntimeconfig.cache
+C:\Users\Faiza\Documents\allDotnet\cSharp\ChallangeOfSwitchStatement\obj\Debug\net8.0\ref\ChallangeOfSwitchStatement.dll
