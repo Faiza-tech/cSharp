@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ChallangeOfSwitchStatement")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da99b726eb2cf50745124bfdf54065acfd331866")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a0e48481e572603616e8313e4a5401b3a6f0be7")]
 [assembly: System.Reflection.AssemblyProductAttribute("ChallangeOfSwitchStatement")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ChallangeOfSwitchStatement")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
